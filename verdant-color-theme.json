@@ -71,8 +71,8 @@
     "editor.rangeHighlightBackground": "#435E4652",
     "editor.wordHighlightBackground": "#81a1c166",
     "editor.wordHighlightStrongBackground": "#81a1c199",
-    "editor.stackFrameHighlightBackground": "#5e81ac",
-    "editor.focusedStackFrameHighlightBackground": "#5e81ac",
+    "editor.stackFrameHighlightBackground": "#5EAC7D",
+    "editor.focusedStackFrameHighlightBackground": "#5EAC7D",
     "editorError.foreground": "#bf616a",
     "editorError.border": "#bf616a00",
     "editorWarning.foreground": "#ebcb8b",
@@ -82,7 +82,7 @@
     "editorBracketHighlight.foreground1": "#8FBC99",
     "editorBracketHighlight.foreground2": "#88D0A0",
     "editorBracketHighlight.foreground3": "#81a1c1",
-    "editorBracketHighlight.foreground4": "#5e81ac",
+    "editorBracketHighlight.foreground4": "#5EAC7D",
     "editorBracketHighlight.foreground5": "#8FBC99",
     "editorBracketHighlight.foreground6": "#88D0A0",
     "editorBracketHighlight.unexpectedBracket.foreground": "#bf616a",
@@ -101,7 +101,7 @@
     "editorHoverWidget.background": "#3B5240",
     "editorHoverWidget.border": "#3B5240",
     "editorLink.activeForeground": "#88D0A0",
-    "editorMarkerNavigation.background": "#5e81acc0",
+    "editorMarkerNavigation.background": "#5EAC7Dc0",
     "editorMarkerNavigationError.background": "#bf616ac0",
     "editorMarkerNavigationWarning.background": "#ebcb8bc0",
     "editorOverviewRuler.border": "#3B5240",
@@ -134,7 +134,7 @@
     "gitDecoration.deletedResourceForeground": "#bf616a",
     "gitDecoration.untrackedResourceForeground": "#a3be8c",
     "gitDecoration.ignoredResourceForeground": "#D8E9DC66",
-    "gitDecoration.conflictingResourceForeground": "#5e81ac",
+    "gitDecoration.conflictingResourceForeground": "#5EAC7D",
     "gitDecoration.submoduleResourceForeground": "#8FBC99",
     "gitDecoration.stageDeletedResourceForeground": "#bf616a",
     "gitDecoration.stageModifiedResourceForeground": "#ebcb8b",
@@ -142,8 +142,8 @@
     "input.foreground": "#D8E9DC",
     "input.placeholderForeground": "#D8E9DC99",
     "input.border": "#3B5240",
-    "inputOption.activeBackground": "#5e81ac",
-    "inputOption.activeBorder": "#5e81ac",
+    "inputOption.activeBackground": "#5EAC7D",
+    "inputOption.activeBorder": "#5EAC7D",
     "inputOption.activeForeground": "#ECF4ED",
     "inputValidation.errorBackground": "#bf616a",
     "inputValidation.errorBorder": "#bf616a",
@@ -244,7 +244,7 @@
     "sideBarSectionHeader.foreground": "#D8E9DC",
     "sideBarTitle.foreground": "#D8E9DC",
     "statusBar.background": "#3B5240",
-    "statusBar.debuggingBackground": "#5e81ac",
+    "statusBar.debuggingBackground": "#5EAC7D",
     "statusBar.debuggingForeground": "#D8E9DC",
     "statusBar.noFolderForeground": "#D8E9DC",
     "statusBar.noFolderBackground": "#3B5240",
@@ -477,7 +477,7 @@
       "name": "Meta Preprocessor",
       "scope": "meta.preprocessor",
       "settings": {
-        "foreground": "#5E81AC"
+        "foreground": "#5EAC7D"
       }
     },
     {
@@ -679,7 +679,7 @@
         "source.c punctuation.definition.directive"
       ],
       "settings": {
-        "foreground": "#5E81AC",
+        "foreground": "#5EAC7D",
         "fontStyle": "bold"
       }
     },
@@ -1021,7 +1021,7 @@
       "name": "[HTML] Meta Tag SGML Doctype",
       "scope": "text.html.basic meta.tag.sgml.doctype",
       "settings": {
-        "foreground": "#5E81AC"
+        "foreground": "#5EAC7D"
       }
     },
     {
@@ -1121,7 +1121,7 @@
         "text.html.markdown punctuation.definition.math.end"
       ],
       "settings": {
-        "foreground": "#5E81AC"
+        "foreground": "#5EAC7D"
       }
     },
     {
@@ -1238,7 +1238,7 @@
         "source.rust meta.attribute keyword.operator"
       ],
       "settings": {
-        "foreground": "#5E81AC",
+        "foreground": "#5EAC7D",
       }
     },
     {
@@ -1364,14 +1364,14 @@
       "name": "[XML] Keyword Other Doctype",
       "scope": "text.xml keyword.other.doctype",
       "settings": {
-        "foreground": "#5E81AC"
+        "foreground": "#5EAC7D"
       }
     },
     {
       "name": "[XML] Meta Tag Preprocessor",
       "scope": "text.xml meta.tag.preprocessor entity.name.tag",
       "settings": {
-        "foreground": "#5E81AC"
+        "foreground": "#5EAC7D"
       }
     },
     {
